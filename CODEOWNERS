@@ -1,8 +1,3 @@
-# Define who is responsible for reviewing changes in the repository
+@athulkrishnatn
 
-# Default owners for everything
-athulkrishnatn
 
-# Add specific file or directory owners if needed
-# /docs/ @docs-team
-# /src/ @dev-team
